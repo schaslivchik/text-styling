@@ -1,0 +1,15 @@
+html {
+  font-size: 16px;
+}
+
+.modified {
+  /* font-size: px, em, rem */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-size: 1rem;
+}
+h1 {
+  font-size: 1.6rem;
+}
